@@ -1,0 +1,5 @@
+---
+aliases:
+  - Vision
+---
+[[Irina]]

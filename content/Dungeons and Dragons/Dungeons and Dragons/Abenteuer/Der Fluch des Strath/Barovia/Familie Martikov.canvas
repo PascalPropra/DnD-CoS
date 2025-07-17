@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"4f9d01e1e5602620","type":"text","text":"[[Dawian Martikov]]","x":-300,"y":-520,"width":250,"height":53},
+		{"id":"48c15e25a867c02c","type":"text","text":"[[Urwin Martikov]]","x":-660,"y":-280,"width":140,"height":60},
+		{"id":"4c321d983e0b2c14","type":"text","text":"[[Brom Martikov]]","x":-780,"y":-120,"width":160,"height":60},
+		{"id":"b00f7b95cd757b50","x":-560,"y":-120,"width":150,"height":60,"type":"text","text":"[[Bray Martikov]]"},
+		{"id":"c9e6cec3143d0261","type":"text","text":"[[Elias Martikov]]","x":-245,"y":-280,"width":140,"height":60},
+		{"id":"5b8ae35317accfe6","type":"text","text":"[[Yolanda]]","x":-369,"y":-120,"width":124,"height":60},
+		{"id":"61cb9813a6fad483","type":"text","text":"[[Adrian Martikov]]","x":-80,"y":-280,"width":136,"height":60}
+	],
+	"edges":[
+		{"id":"7bd712326918dbc5","fromNode":"4f9d01e1e5602620","fromSide":"bottom","toNode":"48c15e25a867c02c","toSide":"top"},
+		{"id":"e56abfa0ceffa9b6","fromNode":"4f9d01e1e5602620","fromSide":"bottom","toNode":"5b8ae35317accfe6","toSide":"top"},
+		{"id":"37ce923d850231c9","fromNode":"4f9d01e1e5602620","fromSide":"bottom","toNode":"c9e6cec3143d0261","toSide":"top"},
+		{"id":"44f022a85028cb3f","fromNode":"4f9d01e1e5602620","fromSide":"bottom","toNode":"61cb9813a6fad483","toSide":"top"},
+		{"id":"49c56ee127b90994","fromNode":"48c15e25a867c02c","fromSide":"bottom","toNode":"4c321d983e0b2c14","toSide":"top"},
+		{"id":"92078714fb2a3073","fromNode":"48c15e25a867c02c","fromSide":"bottom","toNode":"b00f7b95cd757b50","toSide":"top"}
+	]
+}
