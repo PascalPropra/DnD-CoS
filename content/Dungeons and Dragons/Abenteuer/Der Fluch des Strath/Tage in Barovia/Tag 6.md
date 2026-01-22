@@ -18,7 +18,7 @@ Es soll eine Expedition geben, [[Kasimir]] hat bereits magische Artefakte und wa
 
 [[Erik]] beschattet den [[Rictavio|Barden]], er beobachtet, dass dieser zu einem Lagerplatz geht und in einem Schaustellerwagen verschwidet, danach besucht er einen Laden für Spielzeuge mit lila Fassade und kehrt dann ins Gasthaus zurück.
 
-[[Tapse]] verwandelt sich in eine Spinne und ging zurück ins Lager, wo er sah, wie [[Pluto]] gevierteilt wurde
+[[Tapse Stolpernich|Tapse]] verwandelt sich in eine Spinne und ging zurück ins Lager, wo er sah, wie [[Bluto]] gevierteilt wurde
 
 Auf dem Weg in den Westen kamen wir an einem einem Baum vorbei, von dem wir etwas Harz mitnamen. und unsere Schilde härteten
 außerdem fanden wir dort ein Skelett eines Ritters von [[Argynvostholt]] , mit einer beschädigten Kettenrüstung, einem silbernen Amulett und einem versilberten Zweihänder.

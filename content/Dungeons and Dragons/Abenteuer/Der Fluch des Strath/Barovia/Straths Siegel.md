@@ -1,1 +1,1 @@
-Siegel von [[Strath]]
+Siegel von [[Strahd]]

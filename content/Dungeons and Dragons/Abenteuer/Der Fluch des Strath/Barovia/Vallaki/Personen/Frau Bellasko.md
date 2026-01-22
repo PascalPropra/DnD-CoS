@@ -1,3 +1,3 @@
 #NPC 
 
-leiterin des [[Weisenhaus - St. Anwils]]
+leiterin des [[Waisenhaus - St. Anwils]]

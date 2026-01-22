@@ -2,5 +2,5 @@
 
 [[Kirche der Stadt Barovia]]
 [[Galgen an der Weggabelung]]
-[[Vistani]]-Lager [[Eva]]
+[[Vistani]]-Lager [[Madame Eva]]
 [[Verfallene Hütte]]

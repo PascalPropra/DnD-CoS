@@ -1,5 +1,5 @@
 #NPC 
 
 zieht als Geist durch [[Burg Ravenloft]]
-ehemalige Frau von [[Strath]]
+ehemalige Frau von [[Strahd]]
 

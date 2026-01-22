@@ -1,14 +1,14 @@
 #Region
 Abgeschieden von der Außenwelt
-regiert von [[Strath]]
+regiert von [[Strahd]]
 
 Orte:
-[[Stadt Barovia]] Hauptstadt
-[[Vallaki]]
-[[Krezk]]
-[[Berez]] Ruine
+- [[Stadt Barovia]] Hauptstadt
+- [[Vallaki]]
+- [[Krezk]]
+- [[Berez]] (Ruine)
+- [[Turm des Magiers]]
+- [[Argynvostholt]]
+- Lager der [[Vistani]]
 
-[[Argynvostholt]]
-
-Lager der [[Vistani]]
-
+Es treiben sich viele [[Schreckenswölfe]] und [[Vampirbruten]] in den Wäldern herum

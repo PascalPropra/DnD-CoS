@@ -1,14 +1,15 @@
 Mitglieder:
 [[Urwin Martikov]] - Anführer
-[[Kurina Valenka]]
+[[Kurina Valenka]] - Agentin in Kresk
+
 Viele Mitglieder der [[Familie Martikov]]
 insgesamt 24
 
 Besonderheit: 
-viel [[Werraben]]
+viele der Mitglieder sind [[Werraben]]
 
 Basis:
 [[Gasthaus Blauwasser]] in [[Vallaki]]
 
 --- 
-Die Hüter der Feder sind eine Geheimorganisation, die gegen [[Strath]] arbeitet.
+Die Hüter der Feder sind eine Geheimorganisation, die gegen [[Strahd]] arbeitet.

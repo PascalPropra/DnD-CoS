@@ -1,4 +1,4 @@
 #Ort 
-Die Gruppe rastet hier, als [[Strath]] auftaucht und sie begrüßt.
+Die Gruppe rastet hier, als [[Strahd]] auftaucht und sie begrüßt.
 
 Hier endete das Intro

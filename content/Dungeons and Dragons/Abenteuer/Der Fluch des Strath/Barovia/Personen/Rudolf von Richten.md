@@ -4,8 +4,8 @@ Alter: ???
 Rasse: #Mensch
 
 Ein legendärer Monster- und Vampirjäger
-aktuell in Barovia unterwegs
-Lehrmeister von [[Volodimir Dracoli]]
+aktuell in [[Barovia]] unterwegs
+War der Lehrmeister von [[Volodimir Dracoli]] und übernahm für ihn die Vaterrolle.
 
 In der Weissagung als "ein Unterhalter mit Affe" benannt
 Nutzt den Decknamen: [[Rictavio]]

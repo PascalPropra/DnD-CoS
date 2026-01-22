@@ -1,159 +1,150 @@
 [[Session 6]] - #Session - [[Session 8]]
 
-[[Tag 7]]
+### [[Tag 8]]
 ---
-Wir noch im Unterschlupf der [[Hüter der Feder]] in [[Vallaki]].
-[[Rudolf von Richten]] kennen wir nicht, doch er scheint sich in Barovia aufzuhalten.
-[[Urwin]] erzählt uns, dass Strath seit einigen Monaten viel aktiver geworden ist, als in den Jahrzehnten zuvor, und vermutet, dass dies im Zusammenhang mit dem vermeintlichen auftauchen von Rudolf steht.
-Er warnt uns weiterhin, dass Starth nicht zu unterschätzen ist. auch wenn es so scheint, dass er willkürlich handelt, hat er immer einen Plan.
-Vor 2 Wochen wurde [[Kurina Valenka]], eine [[Hüter der Feder|Hüterin]], nach [[Krezk]] geschickt um Nachforschungen anzustellen.
-Ob Strath Verwandschaft hat, kann uns Urwin nicht sagen. Er meint, dass [[Kasimir]] wohl die Person ist, die am meisten über Strath weiß.
+Wir befinden uns in der Gasse in der Nähe des Arasek-Stellplatzes.
+Um uns herum tobt noch immer das Massaker der Vampirbruten.
+[[Rudolf von Richten]]  fragt uns, wie es kommt, dass die Vampirbruten ausgerechnet jetzt die Stadt angegriffen habe. Tapse teilt ihm mit, dass es scheinbar mit dem [[Priester der Kirche von Vallaki]] zu tun hat, da [[Strahd]] etwa in die Richtung gesagt hatte.
+Wir entschleißen uns, zum Wagen den [[Rictavio]] zurückzukehren, um die Verteidigung der Stadt zu planen.
+Auf dem Weg sehen wir grausame Szenen.
+3 Vampirbruten versuchen in den Wagen zu gelangen und wir stellen uns zum Kampf.
+Im Kampf schießt [[Rudolf von Richten]] das Schloss seines Wagens ab und [[Soleika der Säbelzahntiger]] springt heraus. Dann geht es ganz schnell und die Vampirbruten sind besiegt.
+Wärend Rudolf sich Ausrüstung aus dem Wagen holt, freundet sich [[Tapse Stolpernich]] mit [[Soleika der Säbelzahntiger|Soleika]] und darf auf ihr reiten.
 
-Volodimir bemerkt, dass jemand an der geheimen Tür lauscht, es sind [[Irina Kolyana]] und [[Ismark der geringere]].
-Wir laden sie in das Versteck ein.
-Sie erzählen uns, dass sie von einer oder mehreren Personen verfolgt wurde, die aber immer verschwanden, wenn Sie sie konfrontiren wollten.
-Wir fassen den Plan, das Erika Irinas Gestalt annehmen soll, so dass wir den Verfolgern eine Falle stellen können. Irina will die Rolle des Köders lieber selber übernehmen, wovon Ismark nicht begeistert ist. Trotzdem stimmt er dem Plan zu.
+Wir wollen Richtung Gasthaus aufbrechen. Auf dem Weg, kommen wir an einem Lagerhaus vorbei, wo einige Personen versuchen die Türe zu öffnen, um im inneren Schutz vor den angreifenden Vampirbruten und Schattenwölfen zu finden. Darunter auch [[Felix]] und die Söhne der [[Die  Familie Wachta|Wachtas]], die wir zuvor schon im Gasthaus getroffen hatten.
+[[Børk]] schafft es das Tor zu öffnen und stürzt sich dann in den kampf, wärend die Zivilisten sich nach drinnen flüchten. [[Volodimir Dracoli]] hilft [[Felix]], der durch Borgs Vorstürmen umgeworfen wurde, nach drinnen.
+Kurz danach taucht eine weitere Horde [[Schattenwölfe]] auf.
+Wir geraten immer weiter in Bedrängniss und entscheiden uns daher uns in das Lagerhaus zurück zu ziehen. [[Tapse Stolpernich|Tapse]] überzieht den Platz mit Dornen und [[Rudolf von Richten]] muss durch die Dornen zurücklaufen.
+Wir schaffen es, uns im Lagerhaus zu verbarrikadieren und tapse heilt alle.
+Eine Frau erhebt die Stimme:
+"Seht ihr, was passiert, wenn wir uns auf diesen Bürgermeister verlassen?"
+Sie ist offensichtich die Mutter der [[Die  Familie Wachta]] - [[Fiona Wachta]]. Borg gibt ihr eine Kopfnuss und sie bricht zusammen. Ihre Söhne geben schnell klein bei, als Borg sie düster anstarrt.
 
-Wir teilen uns in drei Gruppen auf.
-[[Børk]] und [[Shamrock]] begeben sich unsichtbar auf den Marktplatz, wo sie Irina und Ismark  beschatten. Diese schauen sich erst zusammen auf dem Marktplatz um, teilen sich dann jedoch auf. Den unsichtbaren fällt auf, das sich Wachen absprechen und dann bis auf eine, die Irina beschattet den Platz verlassen.
+[[Agoran Aranis]] nutz die Gelegenheit, um den Brief, den er von [[Rahadin]] erhalten hat.
+> Zitat: Brief
 
-Volodimir und Erika machen sich auf den Weg zur [[Villa des Baron von Vallaki]], dort stehen 2 Wachen vor der Pforte. Bei einer genaueren Untersuchung des Gebäudes wird Erika entdeckt. Sie versucht die Wachen zu überzeugen, sie in den Garten zu lassen. Sie soll sich die Erlaubnis von Bürgermeister einholen. Der Versuch die Wache [[Alek]] von ihrem Posten zu locken schlägt fehl, aber es entsteht aus versehen eine Einladung zu einem Date am Abend.
-Volodimir und Erika sehemn, wie die Wachen vom Marktplatz kommen und mit mehr Wachen aus der Villa wieder Richtung Marktplatz losmarschieren. Darunter eine riesiege Wache mit einem Bestienarm.
+Erik fliegt zum [[Gasthaus Blauwasser]]. Dort scheint auch ein heftiger Kampf getobt zu haben. Als er in das Gasthaus fliegt, bricht die Verbindung ab.
 
-Tapse und Agoran gehen zum Stadtplatz. Dort befinden sich die Geschäfte der Stadt. Sie gehen zu dem Spielzeugladen von [[Gadof Blinski]]. Der ganze Laden ist komplett mit Kuriosem Spielzeug gefüllt. Dort sehen wir eine Puppe von Strath, eine Puppe von Irina und ein [[Piccolo das Äffchen]] im Ballettrock, das durch die Regale turnt. Wir folgen dem Affen immer weiter in den Laden. Nach ein paar Ecken treffen wir [[Gadof Blinski]]. [[Fritz von Weer]] der legendäre Spielzeugmache hat für Strath eine Puppe mit eigenem Willen erschaffen, die Gadolf gerne hätte. Die Puppe von Irina ist eine Auftragsarbeit von einem Mann, der einem Monster gleicht und nicht verkäuflich. Als wir veruchen den Affen zu kaufen erzählt uns Gadolf dass das Äffchen einem [[Rictavio|Barden]] mit dem Namen Vargio gehört. Wir erstehen Pico für 250 Gold.
+Nachdem wir etwas abgewartet haben, brechen wir zum Gasthaus auf, auf den Straßen begegnen wir niemanden, nur Leichen sind überall verstreut. Es ist nebelig.
 
-[[Erika]] hat mit einem Mal unglaublich starke Kopfschmerzen und hört viele Stimmen. Sie schreit vor Schmerzen und klingelt auf einer Klingel rum. Die Stimmen werden immer lauter und Volodimir zieht sie von der Straße. Sie ruft Erik, der sofort heran.
-Die Stimmen rufen:
->Erika, ich bin hier!
+Im Inneren des Gasthauses ist alles verwüstet. Eine [[Ludmilla|blasse mittelalte Frau]] tritt auf uns zu, mit [[Erik]] auf der Schulter. Sie ist eine Vampirin namens [[Ludmilla]] und lässt mit einer Handbewegung lässt sie Tür und Fensterläden zufallen. Sie sagt, dass sie eine Beraterin Straths ist und droht unsere Gruppe zumindest teilweise auszulöschen, doch der Brief hält sie davon ab.
+Nach dem Hinweis darauf, dass sie in der Unterzahl ist, schnippst sie und nun sind wir von acht Ludmillas mit Eriks umringt, die wie aus einem Mund sprechen.
+Erika kann durch Eriks Augen erkennen, welche die echte ist und [[Shamrock]] teleportiert Erik zu sich, doch dieser fliegt einfach zu [[Ludmilla]] zurück. Wir lassen [[Ludmilla ]] ziehen.
+Wir finden  die [[Hüter der Feder]] und [[Irina Kolyana]] in einen magischen Schlaf versetzt. Als wir Irina aufweckten erzählt sie uns, dass [[Bray Martikov]] [[Ludmilla]] ins Haus gelassen hat. [[Ismark der geringere]] wurde von Vampirbruten entführt. Ebenso die Frau von [[Urwin Martikov]] [[Damika Martikov]]. 
 
-Die Wache mit dem Bestianarm rennt mit 4 Wachen zum Marktplatz. Dort gehen sie bestimmt auf Irina zu.
-Tapse und Argoran treffen auch ein.
-Die mönströse Wache wendet sich zu Irina und sagt nur: Du...
-[[Børk]] entscheidet sich aus der Unsichtbarkeit heraus anzugreifen und rammt sein Schwert in den Körper des Monsters. Das scheint diesen kaum zu interessieren und er gleicht aus in dem er [[Børk]] seine Axt in den Leib schlägt. Er fragt: wer bist du?
-Argoran versucht zu intervenieren, und wird von den Wachen festgehalten.
-Volodimir holt Irina in der Ablenkung heimlich aus der Gefahrenzohne und Erika nimmt ihren Platz ein, ohne dass es jemand merkt.
-[[Børk]] tritt die große Wache weg und versucht zu fliehen.
-Eine der Wachen nimmt die Verfolgung auf und zückt einen Bogen. Shamrock setzt Hold Person ein und bekommt dann einen arm abgeschlagen... Er teleportiert mit Ismark auf ein Dach ausser Sichtweite.
+Wir zeigen [[Urwin Martikov]] den Brief und auch er rät uns die Einladung warzunehmen, aber erst nach gründlicher Vorbereitung. Daher entscheiden wir uns zunächst zum [[Turm des Magiers]] aufzubrechen, in dem [[Rudolf von Richten]] sein Lager aufgeschlagen hat. [[Irina Kolyana]] kommt mit.
 
-Erika in Gestalt von Irina und Argoran werden abgeführt und zum Anwesen des Bürgermeisters gebracht.
-
-Die restliche Gruppe zieht sich zum Gasthaus zurück.
-Der Wirt sagt uns, dass der Anführer der Wache [[Isaak Strasni]] heißt, ein absoluter Psychopat und Schoßhund des Bürgermeisters.
-Er warnt uns außerdem vor der Familie [[Die  Familie Wachta]]. Ihnen wird eine Nähe zu Strath nachgesagt.
-Tapse heilt [[Børk]] und Shamrock.
-Wir entscheiden uns, einen Befreiungsversuch erst am Tag des Festivals zu starten.
-
-Beim Anwesen des Bügermeisters sehen Erika und Argoran zuerst eine große Ansammlung von Brennmaterial im Windfang. Im Foyer stehen Wachen an den Aufgängen zur Gallerie.
-Eine große Person mit schrecklicher Frisur schreitet die Treppe herunter, zu seinen Seiten 2 riesige Doggen. Er trägt einen prächtigen roten Mantel. [[Vargas Vallakovich]]
-Dieser nimmt Argoran mit sich, Erika verbleibt bei [[Isaak Strasni]]. Er nimmt sie mit ins erste geschoss und bringt sie in sein Zimmer. In dem Zimmer sind viele Puppen, die aussehen wie [[Irina Kolyana]].
-
-Argoran wird an einem Raum vorbeigeleitet, in dem dutzende Frauen sitzen und Sticken. In der Mitte sitzt die Baronin.
-Danach geht es in das [[Arbeitszimmer ders Barons]]. Dort bietet der Baron ihm ein Glas Wein an. Er erzählt Argoran, dass es nur selten Neuankömmlinge gibt. Er fragt, ob Argoran Informationen zu 2 verschwundenen Bediensteten, seinen Buttler und einer Küchenhilfe.
-Er sagt, dass er es nicht duldet, wenn jemand schlechte Laune verbreitet.
-
-Der Butler mit dem Namen [[Boris]]
-Die Küchenhilfe [[Danja]]
-
-Die Angestellten dürfen das haus nicht verlassen, es sei denn, auf Anweisung des Barons.
-Argoran erhält die erlaubnis im Haus Nachforschungen anzustellen. Er schafft es den baron mit seinen guten Mannieren zu beeindrucken.
-Die [[Wache Nikolai]] wird beauftragt Argoran zu begleiten.
-
-Vargas äußert sich sehr negativ zum Gasthaus.
+Nach einer Weile kommen wir zum [[Turm des Magiers]]. wir merken, wie uns die magischen Kräfte verlassen. 
+[[Rudolf von Richten]] erzählt uns, dass es drei magische Relikte gibt:
+Das [[Heiliges Symbol der Raben]]
+[[Ein Buch]]
+[[Eine Waffe]]
 
 
-[[Isaak Strasni]] fragt "Irina" wer sie ist und offenbart, dass sie in seinen Träumen auftaucht. Er meint, Irina sei seine Schwester, an die er sich erst seit kurzem erinnert. Doch ihr Name sei nicht Irina gewesen.
+Um den Turm zu betreten, muss [[Volodimir Dracoli]] Rätsel lösen.
+> Bild
+
+Drinnen fahren wir mit einem Aufzug, der von 4 Statuen bedient wird nach oben. Dort steht ein Vampir und einem Wirbel aus Luft, in dem Silberschrapnelle umherfliegen. Der Vampir [[Venkor]] beschwert sich, dass [[Rudolf von Richten]] ihn für 9 Tage im Turm zurückgelassen hat.
+
+Rudolf gibt Volodimir eine Truhe, in der seine Monsterjägerausrüstung ist.
+[[Volodimir Dracoli]] eröffnet uns einen Teil seiner Hintergrundgeschichte:
+Er war einst Schüler von [[Rudolf von Richten]]. Dieser hat ihn aufgenommen nachdem was mit Volodimirs Familie geschehen ist.
+Er hat eine [[Wanja]], diese verwandelt sich in eine Bestie und hat in diesem Zustand die Familie von [[Rudolf von Richten]] getötet. Doch das waren nicht die einzigen Opfer. Ganze Dörfer wurden von ihr vernichtet.  
+[[Rudolf von Richten]] wirft ein: "Er hat das Mal"
+Es ist Kreis in einer Raute, mit einem Auge im Zentrum. Davon ausgehend sind strahlenförmige Narben, die sich über den Rücken ausbreiten.
+Auch [[Volodimir Dracoli]] Vater hatte schon diese Mal. Es scheint mit Lykanthropie zusammen zu hängen. Seine Mutter 
+
+Rudolf muss seine Tränen verdrängen.
+Er sagt, dass [[Wanja]] eine gefährliche Variable ist. Seine andere Protegé [[Esmeralda]] ist auch verschwunden.
+
+Als wir erzählen, dass wir aus der Nähe von [[Tiefwasser]] nach [[Barovia]] gekommen sind ist er erstaunt, da er von [[Niewinter]] aus herkam.
+
+Wir besprechen, dass wir das [[Heiliges Symbol der Raben]] und Irina im Turm lassen sollten.
+In diesem Zug erzählen wir Irina, was wir über sie herausgefunden haben.
+[[Isaak Strasni]] war vermutlich ihr Bruder und sie wurde adoptiert, nachdem sie verloren im Wald ihr Gedächtnis verloren hat.
+
+Rudolf erzählt uns, dass der [[Mordekainen|Magier]] dem der Turm gehört jener ist, der vor einem Jahr den [[Feldzug gegen Strahd]] geführt hat, noch am Leben ist und in der Nähe des Berge [[Baratok]] leben soll, allerdings sei er nicht mehr ganz bei Sinnen.
+Er hat einige Bücher von [[Viktor]].
+Außerdem sagt er, dass es alle 70 bis 80 Jahren zu einem Zyklus kommt, bei dem [[Irina Kolyana]] eine Zentrale Rolle spielt, ebenso wie die Artefakte. Und wir sind gerade an einem kritischen Punkt in diesem Zyklus.
+Er sagt, dass er sich auf die Suche nach dem Magier machen will. Wir vermuten, dass es sich dabei um [[Mordenkainen]] handeln könnte.
 
 
-Die Befragung der Gärtners ergab wenig, nur dass er als einziger Angestellter nicht im Anwesen wohnt. Der Hintereingang zum Garten führt direkt in die Küche.
-
-
-[[Børk]] tritt die Tür zum Spielzeugladen ein und schüchtert [[Gadof Blinski]] ein um Informationen zu sammeln. Er findet heraus, dass Gadolf Angst davor hat, den laden zu verlassen und bricht dann mit Shamrock auf zum Wagen des [[Rictavio|Barden]] auf.
-
-
-
-In der Küche erfahren wir, dass Danja aus dem eines Nachts aus dem gemeinsamen Schlafraum verschwand. Sie soll sehr zufrieden mit ihrem beruf gewesen sein.
-Wir bekommen wieder den Hinweis, dass unter dem Dachboden wo [[Viktor]] lebt schon lange kein bediensteter mehr war.
-Victor sollte mit der Tochter der [[Die  Familie Wachta]] verlobt werden, doch diese floh weinend vor ihm.
-
-Erika redet mit [[Isaak Strasni]] über [[Irinas Vision]], bevor dieser von [[Vargas Vallakovich]] weggerufen wird. Volodimir will sie befreien, doch Erika schickt ihn weg.
-
-Volodimir kommt daraufhin an einer Zelle vorbei in der er einen an die wand geketteten Mann [[Udo Lukowitsch]]. Dieser wurde Gefangen und geschlagen, da er sich gegen den Bürgermeister geäußert hatte.
-Weiter Räume an denen er vorbei kommt ist ein Büro mit Bibliothek. Außerdem ein lehstehendes Schlafzimmer. Victors Raum.
-Er knackt das Schloss und fand in dem Raum eine Dachbodenluke
-
-[[Børk]] und Shamrock kommen zum Lagerplatz von [[Arasek]].
-Dort finden sie einen Wagen mit abblätternder Farbe auf dem  steht: [[Rictavio]]s Karneval der Wunder.
-Sie überreden Arasek, sich in dem Wagen umsehen zu dürfen.
-[[Børk]] entdeckt Blut an dem Wagen und eine Innschrift an der Tür: 
->Ich bringe dich vom Schatten ins Licht
-
-Shamrock schickt seine Spinne in das Schlüsselloch, wo sie von einem Mechanismus getötet wird.
-Mit einer 2. Spinne gelingt es ihm in den Wagen zu spähen. Dort sieht er Verschiedenste Sachen: Jagdausrüstung, Rüstung; Phiolen mit Silber und anderen Chemikalien. Außerdem einen Säbelzahntiger.
-
-Erika findet unterdessen eine Schublade im Schreibtisch. Darin finden sich Briefe auf denen in krakeliger Schrift steht. wer ist Sie? Wer ist sie?
-Wie er seinen Arm verloren hat als er beim Angeln mit seinem Vater von einem Schattenwolf angegriffen wurde. Darufhin rannte seine Schwester in den Wald und verschwand.
-Er wurde als Kind gehänselt, da er nur einen Arm hatte, aber da er stark war, wurde er vom baron aufgenommen. 
-Eines Tages hatte er seinen neuen Arm, kann sich aber nicht erinnern woher.
-Außerdem fand sie einen Schlüssel, mit dem sie eine Truhe im Raum öffnen kann. Darin sind 25 Goldmünzen mit dem Counterfeit von Strath, wovon sie 5 herausnimmt.
-
-Tapse und Argoran schauen sich die Betten der Bediensteten an. Bei Danja fanden sie nichts. bei Boris ein tagebuch, in dem steht, dass er sich sorgen über Victor machte.
-Zu Irina stand dort nichts,
-Argoran Hat mitgefühl und legt in die Truhen der Verschwundenen je 5 und 4 Silbermünzen.
-Er fühlt sich durch diese gute Tat inspiriert.
-
-Volodimir sieht im Dachboden verstaubte von Laken bedeckte Möbelstücke.
-ein Stück weiter findet er eine Tür, in die ein Totenschädel geschnitzt ist. darunter steht:
->Alles ist NICHT gut
-
-Er hört unbekannte Worte, die nach Magie klingen.
-Als er versucht den Türknauf zu drehen erscheint eine Glyphe auf dem Totenschädel und ein Blitz schießt auf Volodimir und wirft ihn einige Meter nach hinten.
-Fast bewusstlos wird er von [[Viktor]] hinter die Tür gezogen.
-
-Shamrock und Bork haben in der zwischenzeit eine [[Nachricht an Rudolf]] verfasst.
-
-Tapse und Argoran begeben sich auf den Dachboden, dort vernimmt Tapse Schleifgeräusche, darufhin gelangen sie zur gleichen Tür wie zuvor Volodimir. sie sehen die Schutzrune. Tapse öffnet die Tür und um den Blitz zu entgehen Misty stept er aus der Schussbahn.
-Nachdem die Tür offen steht, sehen sie, wie Victor Volodimir in einen Beschwörungskreis zieht. Argoran kann ihn einschüchtern.
-Er verät, dass er mithilfe eines Teleportationskreises aus Barovia entkommen will. Der Kreis ist jedoch Murks. Die Bediensteten, die er als Testobjekte benutzt hat liegen verkohlt in einer Ecke.
-Wir nehmen die Toten mit. Victor sagt, er würde sich freuen mal Shamrock kennen zu lernen.
-[[Vargas Vallakovich]] ist wenig begeister, als wir ihm die Auflösung des Falls präsentieren. Er gibt uns eine Belohnung von 250 Gold und sagt, dass er uns am nächsten Abend zum Fest erwartet.
-
-Erika wird von [[Isaak Strasni]] auf Befehl des Bürgermeisters entlassen. Zuvor konfrontiert sie ihn zu den Briefen, die sie gefunden hat und fragt, wieso er sich nicht an den Namen seiner Schwester erinnern kann, doch er kann nichts weiter dazu sagen. Zum Abschied droht er nocheinmal, dass wenn Irina Vallaki verlässt, er Jagd auf die Gruppe machen wird um alle zu töten.
-
-Zurück im Gasthaus berichten wir [[Urwin Martikov]] von den Ereignissen.
-Als er erfährt, dass wir versuchen [[Rudolf von Richten]] am nächsten Abend zu treffen und dass dieser als [[Rictavio]] im Gasthaus kampierte. Doch sein Zimmer ist verlassen.
-Als wir [[Ismark der geringere]] mit der Identität von [[Irina Kolyana]] als Schwester von [[Isaak Strasni]] konfrontieren, hält er dies für unglaubwürdig.
-
-Wir ziehen uns für die Nacht zurück.
-
-
-[[Tag 8]]
+### [[Tag 9]]
 ---
-nach einem Frühstück brechen wir auf. 
-Tapse, Aragorn und Erika gehen zu Fest. vor der Kirche wurde eine riesige Kugel aus Geäst aufgehangen. Es scheint bald ein Umzug anzustehen.
+Wir brechen auf zu [[Burg Ravenloft]]. Wir folgen der altbekannten Straße, als nach 15 Minuten dichter Nebel aufzieht. Ein dunkler Umriss liegt vor uns. Es ist eine dunkle Kutsche ohne Zugtiere in die wir einsteigen. Sie fährt in rasanter Geschwindigkeit Richtung [[Burg Ravenloft]]. [[Børk]], der sich auf des Dach gesetzt hat, hat eine wilde Fahrt. Je näher wir dem Schloss kommen, desto toter sieht die Landschaft aus. Als wir dort ankommen, öffnen sich Zugbrücke und Fallgitter und wir gelangen in den Innenhof. Das Wetter hat sich zu einem Gewittersturm gewandelt. Ohne Zutun schlagen die Türen der Kutsche auf.
+Als wir die tür zum Schloss erreichen empfängt uns [[Rahadin]]. Er führt uns hinein.
+In der Vorkammer befinden sich 8 [[Gargoyles]]. Im Eingangsberich sehen wir Statuen und prächtige, aber dreckige Fenster. Rahadin wendet sich nach rechts, von woher Orgelmusik ertönt. Er erzählt uns, dass der Architekt [[Kazan]] hieß, und dass [[Burg Ravenloft]] auf den Grundamauern einer anderen Feste errichtet wurde. Alle Statuen sind magisch.
+Wir werden von Bediensteten mit edler Kleidung für uns empfangen. Wir lasse unsäubern und einkleiden.
 
-[[Børk]], Shamrock und Volodimir halten sich abseits der Feierlichkeiten und halten Ausschau nach [[Rictavio]]. Volodimier bleibt dabei in den Schatten.
+Tapse trägt einen Hut, der größer ist, als er selbst
+[[Børk]] trägt einen Anzug, dessen Ärmel er abgerissen hat.
+[[Shamrock]] trägt einen blauen Anzug und Fedora
+[[Agoran Aranis]]  trägt einen Hut mit Brautschleier
+Volodimor und Erika behalten ihre Kleidung an.
+Der Rest der Ausrüstung wird auf unsere Zimmer gebracht.
 
-Der Zug zieht durch die Straße, angeführt vom Bürgermeister, der sich feiern lässt. Es folgen ihm Stadtwachen in Rüstung und die Baronin.
-alles ist geschmückt mit Blumen, die jedoch etwas welk sind.
-Es gibt auch Tänzerinnen. [[Isaak Strasni]] läuft neben den Zug mit eine Fackel her und versucht nach vorne aufzuschließen.
+[[Gertrude]] ist neu im Dienst
+[[Damika Martikov]] scheint nicht anwesend zu sein.
 
-[[Børk]] und Shamrock bemerken eigenartige Geräusche in einer Gasse und investigieren.
-[[Volodimir]] eklimmt ein Dach.
 
-Isaak entzündet die Fackel, Der Baron hält eine Rede über das fest und den Frohsinn von Vallaki.
+Ich Speisesaal angekommen treffen wir auf Strath, die Orgel spielt von selbst.
 
-Die Geräusche führen zu einer Hintertür, Shamrocks Spinne krabbelt dahinter. Dort wird ein alter Mann in einer Schürze wird von einer Klaue zerfetzt. Vampirbruten laufen durch den Laden. Eine Sargmacherwerkstatt. Ein wilder Kampf entbrennt.
+Es sind für jeden von uns Speisen vorbereitet
+Erika hat Speisen aus dem Unterreich
+Volodimir Mamas Suppe
+Bork Schweinehirn mit Blutsoße
+tapse Karotten, unterschiedlichst zubereitet
+Shamrock Speisen wie an der Universität von Tiefwasser
+Aragorn das essen eines Soldaten.
 
-Gerade als der Bürgermeister die künstliche Sonne entzünden will, beginnt es unerwartet zu schütten und die Fackel erlischt. Er erzürnt. Eine Person in der Menge lacht. Die Menge verstummt. Ein Klatschen ertönt und Graf [[Strath]] gibt sich zu erkennen. Schreie ertönen und man hört angreifende Monster. Der Bürgermeister wird vom Pferd abgeworfen. [[Isaak Strasni]] stürmt auf Strath zu und Attakiert ihn mit seiner Axt, doch Strath rematerialsiert sich hinter ihm und lasst ihn mit einem grünen Blitz aus seiner Hand zu Staub zerfallen. Strath wendet sich dem Priester zu:
->Hat es euch keiner gesagt? Hier gibt es keine Götter, es gibt nur mich!
+An jedem Platz steht ein [[Trank des Engelsschlafs]]
 
-damit zerfetzt er die Kehle des Priesters und Vampirbruten beginnen die Menge anzugreifen.
-Ein gut gekleideter Elf tritt auf Argoran zu. Es ist ein Vampir.
-[[Rahaldin]] ein Diener von Strath.
-Er überreicht einen Brief mit einen "S"-Wachssiegel.
-Wärenddessen betrachtet [[Strath]] mit Belustigung, wie [[Vargas Vallakovich|der Bürgermeister von Vallaki]] sich aus dem Dreck hochrafft und dann flieht.
+Das Essen beginnt, es tauchen Diener auf, die sich um alles kümmern.
 
-Beim Kampf mit den Vampirbruten taucht [[Rictavio]] auf. Einen Ring der Verkleidung von seinem Finger. Sein Aussehen wandelt sich zu einem gepflegten älteren Mann. Er zieht einen Degen aus seinem Gehstock, tötet die Vampirbruten mit Leichtigkeit und schließt die Tür. 
-Er wendet sich an den Versteckten [[Volodimir Dracoli]]. Ich sehe dich, habe ich dich nicht besser ausgebildet?
+Außerdem setzten sich [[Rahadin]] und [[Ludmilla]] (noch immer mit [[Erik]] auf der Schulter), sowie 3 weitere Vamire mit an den Tisch.
+Strath stellt sie als [[Volenta Pofsky]],[[Anastrasya Kareloa]] und [[Escher]] vor.
+Zu ihnen und uns bleibt je Seite ein Platz frei.
 
-To be continued...
+Strath befiehlt [[Ludmilla]] Erik wieder freizugeben und er und Erika sind wieder vereint.
+
+Er erzählt uns, dass wir nicht die ersten sind, die er eingeladen hat, betont jedoch auch, dass dies eine seltene Ehre ist.
+
+Argoran wirkt einen Wahrheitszauber, welcher Strath natürlich sofort bemerkt.
+Er erzählt uns, dass es eine Schutzbarriere zwische den Abenteurern und den Vampiren gibt.
+
+Strath sprich Argoran  darauf an, dass es scheinbar eine Gratwanderung ist, 2 Göttern als Paladin und Hexenmeister zu dienen.
+
+Strath spricht davon, dass Erika im unterreich in Politische Machenschaften verwickelt war, ser sie zu entfliehen versuchte. und gibt den Hinweis, dass sich Informationen für sie in Barovia finden lassen.
+
+Bork spricht er darauf an, dass es eine Besonderheit ist, auf ein Stammesmitglied zu treffen.
+
+Volodimir wird gesagt, dass Strath eine Person hat, die Informationen über ihn preisgegeben hat und spricht ihn indirekt auf das Mal auf seinem Rücken an.
+
+Tapse spricht er darauf an, dass es seltsam ist, dass so ein rechtschaffender Mann mit einer so undurchsichtigen Gruppe reist.
+
+Er spricht Shamrock auf seinen Namen an und lobt ihn sogar für seine magischen Künste.
+
+Er sagt, dass Barovia nicht in [[Faerûn]] liegt, sondern im [[Schattenfenn]].
+Nur Strath hat die Macht, zu bestimmen, wer den [[Nebel]] durchdringen kann.
+
+Die [[Vistani]] sind ein altes Volk, älter noch als [[Barovia]] 
+
+Auch Strath kann Barovia nicht verlassen.
+Auch er ist einem Fluch unterlegen.
+Er offenbart, dass er seine Macht von einem Wesen erhalten.
+
+Starth schlägt uns einen Handel vor, wir überreiche ihm Irena und dafür gibt er uns unvorstellbare Macht.
+
+Mutter von Strath: [[Queen Vavinova]] 
+
+[[Mordenkainen]] ist nach [[Faerûn]] gekommen - wo war er vorher?
+
+
+Im Anschluss folgt der Nachtisch
+2 Personen in Kaputzen tauchen auf den zuvor nicht besetzten Stühlen auf
+Es sind [[Ismark der geringere]] und [[Damika Martikov]].
+
+Ardigon bekommt die Wahl auferlegt, wer von beiden die Speise der Vampire werden soll.
+Die Wahl fällt auf Ismark. Strath reist ihm mit einer Klauenhand die Kehle heraus und der tote Körper schwebt zu den Vampiren hinüber.
+
+Wir werden zu unseren Gemächern geführt. Im Hintergrund hören wir, wie [[Ismark der geringere]] verspeist wird.

@@ -1,5 +1,6 @@
 #NPC 
 [[Urwin Martikov]]
+[[Damika Martikov]]
 [[Brom Martikov]]
 [[Bray Martikov]]
 

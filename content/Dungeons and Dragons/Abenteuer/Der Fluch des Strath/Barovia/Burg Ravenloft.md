@@ -1,3 +1,3 @@
 #Ort 
-Heim von [[Strath]]
+Heim von [[Strahd]]
 thront über der [[Stadt Barovia]]

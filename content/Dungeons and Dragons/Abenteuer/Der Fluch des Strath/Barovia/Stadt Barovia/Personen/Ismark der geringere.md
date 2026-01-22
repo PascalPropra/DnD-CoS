@@ -3,4 +3,6 @@
 Sohn von [[Koljan Indirowitsch]]
 Bruder von [[Irina Kolyana]]
 
-nahm auch am letzten [[Kreuzzug]] teil
+Nahm auch am letzten [[Feldzug gegen Strahd]] teil
+
+Starb auf [[Burg Ravenloft]] als er zum Bankett von Strath und einen Gästen verspeist wurde.

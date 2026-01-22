@@ -1,6 +1,6 @@
 Stark, schweigsam, Augentattoo
 hat einen Kompagnion
 
-macht Armdrücken
+Wurde von [[Børk]] im Armdrücken geschlagen. Dabei wurde sein Arm gebrochen.
 
 #NPC

@@ -15,7 +15,7 @@ Sonne | bis Hoffnung neu geboren wird
 
 nachdem die Steine in der richtigen Reihenfolge berührt wurden, bekamen alle, die einen Stein berührt hatten eine Vision:
 
-Eine Frau, die aussieht wie [[Irina Kolyana]] steht vor [[Strath]], der Himmel ist blutrot, ein Schwert von dem Blut tropft
+Eine Frau, die aussieht wie [[Irina Kolyana]] steht vor [[Strahd]], der Himmel ist blutrot, ein Schwert von dem Blut tropft
 > ein Pakt, er glaubt sich Herr, doch die Ketten kennen ihren Schmied
 
 Als wir aus der Vision zurückkamen, viel [[Irina Kolyana]] in eine [[Irinas Vision]] aus der sie kaum zurückkehren konnte. 

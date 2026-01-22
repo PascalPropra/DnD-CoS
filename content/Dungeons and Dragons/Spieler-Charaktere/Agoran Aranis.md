@@ -2,4 +2,5 @@
 Paladin
 
 magische Gegenstände:
-[[Vampirschwert]]
+[[Vampirschwert]] - nicht mehr
+[[Aegis der rechtschaffenden Flamme]]

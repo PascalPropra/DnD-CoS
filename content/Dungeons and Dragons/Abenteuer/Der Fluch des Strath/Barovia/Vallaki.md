@@ -29,7 +29,7 @@ Eisenwarenladen | Hammer und Haken
 Schneiderei | Nadel, Faden...
 Alchemistenladen | Flackerflamme | Inhaber Jasper
 Gasthaus | [[Gasthaus Blauwasser]]
-[[Weisenhaus - St. Anwils]]
+[[Waisenhaus - St. Anwils]]
 [[Kirche von Vallaki]]
 Lagerplatz von [[Arasek]]
 [[Villa des Baron von Vallaki]]

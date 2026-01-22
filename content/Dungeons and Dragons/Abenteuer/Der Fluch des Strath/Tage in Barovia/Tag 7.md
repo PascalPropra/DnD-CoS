@@ -22,7 +22,7 @@ Er Fragt uns, ob wir [[Rudolf von Richten]] kennen.
 
 Wir noch im Unterschlupf der [[Hüter der Feder]] in [[Vallaki]].
 [[Rudolf von Richten]] kennen wir nicht, doch er scheint sich in Barovia aufzuhalten.
-[[Urwin]] erzählt uns, dass Strath seit einigen Monaten viel aktiver geworden ist, als in den Jahrzehnten zuvor, und vermutet, dass dies im Zusammenhang mit dem vermeintlichen auftauchen von Rudolf steht.
+[[Urwin Martikov]] erzählt uns, dass Strath seit einigen Monaten viel aktiver geworden ist, als in den Jahrzehnten zuvor, und vermutet, dass dies im Zusammenhang mit dem vermeintlichen auftauchen von Rudolf steht.
 Er warnt uns weiterhin, dass Starth nicht zu unterschätzen ist. auch wenn es so scheint, dass er willkürlich handelt, hat er immer einen Plan.
 Vor 2 Wochen wurde [[Kurina Valenka]], eine Hüterin, nach [[Krezk]] geschickt um Nachforschungen anzustellen.
 Ob Strath Verwandschaft hat, kann uns Urwin nicht sagen. Er meint, dass [[Kasimir]] wohl die Person ist, die am meisten über Strath weiß.
@@ -114,7 +114,7 @@ Er wurde als Kind gehänselt, da er nur einen Arm hatte, aber da er stark war, w
 Eines Tages hatte er seinen neuen Arm, kann sich aber nicht erinnern woher.
 Außerdem fand sie einen Schlüssel, mit dem sie eine Truhe im Raum öffnen kann. Darin sind 25 Goldmünzen mit dem Counterfeit von Strath, wovon sie 5 herausnimmt.
 
-Tapse und Argoran schauen sich die Betten der Bediensteten an. Bei Danja fanden sie nichts. bei Boris ein tagebuch, in dem steht, dass er sich sorgen über Victor machte.
+Tapse und Argoran schauen sich die Betten der Bediensteten an. Bei Danja fanden sie nichts. bei Boris ein Tagebuch, in dem steht, dass er sich sorgen über Victor machte.
 Zu Irina stand dort nichts,
 Argoran Hat mitgefühl und legt in die Truhen der Verschwundenen je 5 und 4 Silbermünzen.
 Er fühlt sich durch diese gute Tat inspiriert.
