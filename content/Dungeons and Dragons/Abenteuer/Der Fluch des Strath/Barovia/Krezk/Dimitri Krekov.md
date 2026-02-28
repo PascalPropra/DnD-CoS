@@ -1,2 +1,0 @@
-#NPC
-Bürgermeister von [[Krezk]]

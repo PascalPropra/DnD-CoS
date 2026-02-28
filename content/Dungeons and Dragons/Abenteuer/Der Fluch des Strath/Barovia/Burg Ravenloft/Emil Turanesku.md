@@ -1,1 +1,0 @@
-War eingesperrt im Kerker von [[Burg Ravenloft]]

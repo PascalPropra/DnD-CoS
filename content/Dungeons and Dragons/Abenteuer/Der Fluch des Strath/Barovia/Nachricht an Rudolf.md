@@ -1,5 +1,0 @@
-![[Nachricht an Rudolf.jpg]]
-> Sehr geehrter Herr [[Rictavio]]!
-> In heimlicher Bewunderung und Anerkennung ihrer Fähigkeiten sind wir uns ihrer geheimen Identität doch recht sicher. Sie müssten für Vertraute, Freunde und  Gleichgesinnte unter dem Namen "[[Rudolf von Richten]]" bekannt sein. In aller Diskretion... & getreu ihrem Moto hie an ihrem Wagen bräuchten wir ihre Hilfe und Unterstützung, um uns aus den Schatten ins Licht zu führen. Wenn sie der sind, der wir glauben und das können, was wir vermuten, dann wäre eine Allianz zwischen zwischen ihnen und unserer kühnen Abenteuergruppe ein regelrechter Fluch für die blutsaugende Fledermaus hoch oben in der Festung. Respektvoll und hochachtungsvoll bitten wir um ein Treffen. Morgen Abend bei "Blinskis Spielsachen".
-> Hoffnungsvolle Grüße
-> [[Shamrock|S.]] & [[Børk|B.]]

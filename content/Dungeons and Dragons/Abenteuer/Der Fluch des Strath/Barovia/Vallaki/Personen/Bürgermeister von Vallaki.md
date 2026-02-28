@@ -1,1 +1,0 @@
-Bürgermeister von [[Vallaki]]

@@ -1,2 +1,0 @@
-#Ort 
-[[Arbeitszimmer ders Barons]]

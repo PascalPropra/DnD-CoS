@@ -1,2 +1,0 @@
-#NPC 
-Buchhalter in [[Vallaki]]

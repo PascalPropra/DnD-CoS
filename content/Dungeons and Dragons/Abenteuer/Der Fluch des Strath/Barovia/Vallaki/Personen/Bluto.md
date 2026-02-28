@@ -1,2 +1,0 @@
-#NPC
-Angler aus [[Vallaki]]
