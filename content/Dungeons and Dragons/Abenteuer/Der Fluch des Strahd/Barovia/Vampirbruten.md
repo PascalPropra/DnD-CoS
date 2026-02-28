@@ -1,0 +1,5 @@
+---
+tags:
+  - Monster
+---
+![[Vampirbrut.jpg]]

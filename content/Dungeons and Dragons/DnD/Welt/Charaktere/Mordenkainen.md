@@ -1,4 +1,7 @@
-#NPC 
+---
+tags:
+  - NPC
+---
 Rasse: #Mensch
 Freund von [[Elminster]]
 
