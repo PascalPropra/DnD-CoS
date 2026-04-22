@@ -8,7 +8,7 @@ Spieler: Jonas
 Volk: Leichtfuß-Halbling
 Klasse: Druide
 Unterklasse: Zirkel der Hirten
-Stufe: 9
+Stufe: 10
 Abenteuerstart: Der Fluch des Strahd
 ---
 

@@ -1,14 +1,10 @@
 ---
 tags:
   - NPC
+  - tot
 ---
-Der Wirt vom [[Gasthaus Blauwasser]]
-seit 40 Jahren in Vallaki, Alter 54
-hält den [Bürgermeister von Vallaki] für eine Schwachkopf
-oppositionell zu [[Strahd]]
-Teil von [[Hüter der Feder]]
+Wirt des [[Gasthaus Blauwasser]], seit 40 Jahren in Vallaki, 54 Jahre alt. Hielt den Baron für einen Schwachkopf, war Teil der [[Hüter der Feder]] und offen gegen [[Strahd]] eingestellt.
 
-Sohn von [[Dawian Martikov]]
-Hat 2 Söhne:
-[[Brom Martikov]]
-[[Bray Martikov]]
+Sohn von [[Dawian Martikov]], Ehemann von [[Damika Martikov]], Vater von [[Brom Martikov]] und [[Bray Martikov]].
+
+Als die Gruppe nach Strahds Tod nach [[Vallaki]] zurückkehrte, fanden sie Urwin erhängt in seinem Gasthaus. Er hatte zuvor entdeckt, dass seine Frau und seine Kinder zu Asche zerfallen waren — ein Kollateralschaden von Strahds Tod, der einige Barovianer mit sich riss.

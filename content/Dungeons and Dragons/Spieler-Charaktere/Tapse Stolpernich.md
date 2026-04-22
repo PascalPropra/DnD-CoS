@@ -9,7 +9,7 @@ aliases:
 - **Spieler:** Jonas
 - **Volk:** Starkherz Halbling
 - **Klasse / sichtbare Rolle:** Druide (Hirtenzirkel)
-- **Aktuelles Level:** 9
+- **Aktuelles Level:** 10
 
 ## Auftreten & Rolle in der Gruppe
 Tapse tritt ruhig, pragmatisch und bodenständig auf. Er handelt häufig vorbereitend und schützend und wirkt im Vergleich zu anderen Gruppenmitgliedern wenig impulsiv. Innerhalb der Gruppe übernimmt er meist die Rolle des Unterstützers, Heilers und stabilisierenden Elements – besonders in Extremsituationen.
@@ -29,6 +29,10 @@ Seit den Ereignissen im [[Bernsteintempel]] tritt Tapse noch gefestigter und ent
 - Erlangte im [[Bernsteintempel]] [[Das Sonnenschwert]] und trat offen als Träger einer gegensätzlichen Macht zu Strahd hervor
 - Hielt die Gruppe während des Kampfes gegen Rahadin und dessen Verbündete durch Heilung und Schutzmagie handlungsfähig
 
+- Erweckte vor der Finalschlacht im Wald einen starken Baum: [[Ewigwurzel]]
+
+- Tötete [[Strahd]] persönlich — sprang auf seinen Sarg, als dieser in ihn floh, und versenkte das [[Das Sonnenschwert|Sonnenschwert]] in Strahds Brust. Strahds letztes Wort: *„Endlich."*
+
 
 ## Aktueller Status
 
@@ -43,5 +47,5 @@ Seit den Ereignissen im [[Bernsteintempel]] tritt Tapse noch gefestigter und ent
 - **Bekannte Verletzungen / Flüche:**
   - keine bekannten dauerhaften Flüche
 
-- **Letzter bekannter Aufenthaltsort:** [[Krezk]] – [[Barovia]]
+- **Letzter bekannter Aufenthaltsort:** Unterwegs nach Baldurs Gate
 

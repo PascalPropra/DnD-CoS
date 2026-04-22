@@ -1,6 +1,8 @@
 ---
 tags:
   - NPC
+aliases:
+  - Rudolf
 ---
 
 Alter: ???

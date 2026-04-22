@@ -89,14 +89,14 @@ irgendwann sehen wir ein Orangenes funkeln unter uns, das bald zu einem stärker
 Wir stoßen auf ein Skelett in einfacher Robe und Umhang mit Stab. Es ist ein [[Stab des Frostes]]
 Die [[Robe mit Aufnähern|Robe]] ist auch magisch und von verschiedenen Aufnähern bedeckt.
 
-Am Ende der Brücke finden wir eine gigantische Statue aus Bernstein vor; eine Verhüllte Gestalt mit Flügeln. Über dem Tor dahinter steht auf [[celestial]]:
+Am Ende der Brücke finden wir eine gigantische Statue aus Bernstein vor; eine Verhüllte Gestalt mit Flügeln. Über dem Tor dahinter steht auf [[Celestial]]:
 
 >"Dies ist kein Tempel sondern ein Grab. Nicht erbaut um zu beten, sondern um zu binden."
 
 Wir schreiten hindurch.
 Dahinter ist ein riesiges kreisförmiges Plateau. ein orangenes Leuchten erfüllt den Raum. Durchgänge sind zu anderen Räumen zu erkennen.
 
-Shamrock spricht auf [[celestial]] zum "[[gesichtslosen Gott]]" und die Stimmen antworten "tretet herab"
+Shamrock spricht auf [[Celestial]] zum "[[gesichtslosen Gott]]" und die Stimmen antworten "tretet herab"
 
 Ringförmig sind Stufen in das Plateau eingelassen, dem Ring steht in Runen auf [[Celestial]]
 
@@ -111,7 +111,7 @@ Wir teilen uns auf, wärend [[Børk]] mit [[Kasimir Velikov|Kasimir]] zurückble
 ------------
 
 Tapse findet einen Schlafsaal vor, in dem die Skelette von Magiern und Priestern in Betten liegen.
-Ein Relief ist an der Wand das Augen und Hände unter einer Sonne darstellt - der [[Morgenfürst]]?
+Ein Relief ist an der Wand das Augen und Hände unter einer Sonne darstellt - der [[Latander|Morgenfürst]]?
 
 - Goldmünzen, die so alt sind, dass sie noch aus [[Faerûn]] stammen und nicht von [[Strahd]] geprägt wurden.
 - Tagebuch mit Anleitung das unaussprechliche zu fesseln und Bernstein als Magisches Seelengefängnis zu nutzen.
@@ -140,7 +140,7 @@ Auf dem Pult liegt ein [[Handbuch des schnellen Handels]]
 [[Kasimir Velikov]] macht auf sich aufmerksam:
 Er stellt die Theorie auf, dass wenn man den Namen herausfindet, das Siegel gelöst werden könnte.
 
-Tapse liest ein weiteres Kapitel aus dem Buch und auch das letzte.
+Tapse liest ein weiteres Kapitel aus dem [[Foliant des Strahd]] und auch das letzte.
 #Level-Up 
 
 [[Shamrock]] spricht die Namen [[Kas]] und [[Vecna]] aus und es öffnet sich eine Wendeltreppe im Boden.

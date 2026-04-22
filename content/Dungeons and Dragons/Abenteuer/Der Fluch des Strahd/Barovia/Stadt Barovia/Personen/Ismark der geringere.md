@@ -16,7 +16,7 @@ Ismark wuchs im [[Dorf Barovia]] auf und kannte die Verhältnisse in Barovia gut
 
 ## Begegnungen
 
-**[[Session 1]] – Gasthaus - Blut auf der Rebe, [[Stadt Barovia]]**
+**[[Session 1]] – Gasthaus - Blut auf der Rebe, [[Dorf Barovia]]**
 Die Gruppe traf Ismark im Gasthaus, wohin Biltrad sie geschickt hatte. Er warnte vor den Vistani und den Mitternachtspasteten und bot an, die Gruppe zum Haus des Bürgermeisters zu begleiten, wo sie die Nacht verbrachten.
 
 **[[Session 2]] – [[Haus des Bürgermeisters]]**

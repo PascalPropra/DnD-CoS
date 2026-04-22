@@ -12,7 +12,7 @@
 - Hinterhalt durch Vampire vor [[Vallaki]]
 	- [[Strahd]] tötet den Rest
 	- Vampirschwert gefunden
-- Gruppe überredet die Wachen Zutritt zur Stadt zu bekommen
+- Gruppe überredet die Wachen, Zutritt zur Stadt zu bekommen
 - Übernachtung im [[Gasthaus Blauwasser]]
 
 ### [[Tag 4]]

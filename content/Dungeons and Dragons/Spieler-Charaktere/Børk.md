@@ -13,7 +13,7 @@ _Auch genannt:_ **_der Grausame_**
     
 - **Klasse / sichtbare Rolle:** Barbar (hauptsächlich) / Kämpfer – Frontkämpfer
     
-- **Aktuelles Level:** 9
+- **Aktuelles Level:** 10
     
 
 ## Auftreten & Rolle in der Gruppe
@@ -39,17 +39,21 @@ Bekannt ist zudem, dass Børk selbst als Kind in Kampfhandlungen verwickelt war,
 
 ## Bedeutende Ereignisse (chronologisch)
 
-- Besiegte in einem Armdrücken den lokalen Champion in der [[Taverne 0]]
+- Besiegte in einem Armdrücken den lokalen Champion im Gasthaus [[Der erste Tropfen]]
     
-- Trug maßgeblich zur Verteidigung von [[Vallaki]] während des Vampirangriffs bei
+- Trug maßgeblich zur Verteidigung von Vallaki während des Vampirangriffs bei
 	
-- Wurde während des Kampfes gegen [[Ludmilla Vilisevic]] in den Katakomben unter [[Schloss Ravenloft]] geistig kontrolliert und gegen die eigene Gruppe eingesetzt
+- Wurde während des Kampfes gegen Ludmilla Vilisevic in den Katakomben unter Schloss Ravenloft geistig kontrolliert und gegen die eigene Gruppe eingesetzt
 	
 - Ging im [[Bernsteintempel]] einen folgenschweren Pakt ein, der ihn dauerhaft veränderte
     
-- Ging im Kampf gegen [[Rahadin]], Werwölfe und [[Vanya]] mehrfach an seine körperlichen Grenzen
+- Ging im Kampf gegen Rahadin, Werwölfe und Vanya mehrfach an seine körperlichen Grenzen
     
-- Überlebte die Flucht durch das Portal vom [[Bernsteintempel]]
+- Überlebte die Flucht durch das Portal vom Bernsteintempel
+
+- Tötete [[Rahadin]] in der Grabkammer von [[Schloss Ravenloft]] — teilte ihn sauber in zwei Hälften.
+
+- Verfiel nach dem Kampf in unkontrollierte Rage und begann, alle Verbliebenen abzumetzeln. Wurde von [[Agoran Aranis|Agoran]] mit Hold Person eingefroren, dann gefesselt — und schließlich von [[Agoran Aranis|Agoran]]s [[Mage Hand]] gekitzelt (Nat 20), was ihn als Einziges aus der Rage riss.
 
 
 ## Aktueller Status
@@ -70,4 +74,4 @@ Bekannt ist zudem, dass Børk selbst als Kind in Kampfhandlungen verwickelt war,
         
     - schwere Verletzung im Bereich der Kehle (nicht dauerhaft)
         
-- **Letzter bekannter Aufenthaltsort:** [[Krezk]] – [[Barovia]]
+- **Letzter bekannter Aufenthaltsort:** Krezk – Barovia

@@ -12,7 +12,7 @@ aliases:
     
 - **Klasse / sichtbare Rolle:** Hexenmeisterin – arkaner Fernkämpfer
     
-- **Aktuelles Level:** 9
+- **Aktuelles Level:** 10
     
 
 ## Auftreten & Rolle in der Gruppe
@@ -43,7 +43,13 @@ aliases:
 - Erhielt im [[Schloss Ravenloft]] [[Das Amulett der Rauchperlen]]
     
 - Überlebte den Kampf gegen [[Rahadin]], Werwölfe und [[Vanya]] nur knapp
-    
+
+- Wurde von [[Shamrock]] im Finale mit Polymorph in einen goldenen Drachen verwandelt — riss die Zugbrücke von [[Schloss Ravenloft]] aus der Verankerung und trug [[Vanya]] im Maul von der Burg fort.
+
+- Befreite [[Vanya]] aus [[Rahadin]]s mentaler Kontrolle durch Protect from Evil and Good — ein entscheidender Wendepunkt.
+
+- Hörte nach Strahds Tod noch einmal die Stimme [[Vecna]]s, der sich bei ihr bedankte.
+
 
 ## Aktueller Status
 
@@ -57,6 +63,6 @@ aliases:
         
 - **Bekannte Verletzungen / Flüche:**
     
-    - zeitweise Beeinflussung durch fremde Stimmen (Natur und Ursprung unklar)
+    - Verbindung zu [[Vecna]] — hörte seine Stimme nach Strahds Tod; Ursprung und Ausmaß unklar
         
-- **Letzter bekannter Aufenthaltsort:** [[Krezk]] – [[Barovia]]
+- **Letzter bekannter Aufenthaltsort:** Unterwegs nach Baldurs Gate

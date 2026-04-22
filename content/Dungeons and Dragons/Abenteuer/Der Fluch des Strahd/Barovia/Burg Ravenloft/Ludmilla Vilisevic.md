@@ -28,7 +28,4 @@ Magische Beraterin von [[Strahd]] und eine seiner engsten Vertrauten in arkanen 
 
 ## Aktueller Status
 
-- **Lebend**
-- **Schwer verletzt**
-- Zog sich aus dem Kampf zurück, um sich zu regenerieren
-- Verbleib nach der Flucht unbekannt
+Nach Strahds Tod wurde ihr Zeitstrahl von der Gruppe beendet. Verbleib unbekannt.

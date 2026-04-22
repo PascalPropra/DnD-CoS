@@ -13,7 +13,7 @@ aliases:
     
 - **Klasse / sichtbare Rolle:** Arkaner Zauberwirker / Kämpfer (hybrider Front- und Zaubercharakter)
     
-- **Aktuelles Level:** 9
+- **Aktuelles Level:** 10
     
 
 ## Auftreten & Rolle in der Gruppe
@@ -52,7 +52,13 @@ Volodomir tritt meist zurückhaltend, beobachtend und angespannt auf. Er wirkt i
 - Stürzte gemeinsam mit [[Rahadin]] und seiner Schwester [[Vanya]] in die Tiefe und überlebte schwer verletzt
     
 - Entkam mit [[Irina Koljana|Irina]] aus einer ausweglosen Situation am [[Soljenka-Pass]]
-    
+
+- Verwandelte sich im Finale auf dem Turm in seine Wergestalt. Versuchte, telepathisch Kontakt zu [[Vanya]] aufzunehmen — empfing nur ihre Panik.
+
+- Rettete [[Agoran Aranis|Agoran]] vor dem Tod, indem er per Blutfluch die Hälfte von Strahds Angriff auf sich umleitete.
+
+- Erkannte nach dem Kampf seine Schwester [[Vanya]] wieder — sie erkannte ihn.
+
 
 ## Aktueller Status
 
@@ -70,4 +76,4 @@ Volodomir tritt meist zurückhaltend, beobachtend und angespannt auf. Er wirkt i
     
     - Bestehende Verwandlung unbekannter Natur
         
-- **Letzter bekannter Aufenthaltsort:** [[Krezk]] – [[Barovia]]
+- **Letzter bekannter Aufenthaltsort:** Unterwegs nach Baldurs Gate

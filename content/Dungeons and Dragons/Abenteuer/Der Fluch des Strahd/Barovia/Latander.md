@@ -1,0 +1,6 @@
+---
+tags:
+  - Gott
+aliases:
+  - Morgenfürst
+---

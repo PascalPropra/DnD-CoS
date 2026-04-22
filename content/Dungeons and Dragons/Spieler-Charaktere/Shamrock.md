@@ -2,7 +2,7 @@
 aliases:
   - Shamrocks
 ---
-# #Charakter – Shamrock †
+# #Charakter – Shamrock
 
 ## Öffentliche Daten
 
@@ -12,7 +12,7 @@ aliases:
     
 - **Klasse / sichtbare Rolle:** Magier – arkaner Zauberwirker
     
-- **Aktuelles Level:** 8 (zum Zeitpunkt des Todes)
+- **Aktuelles Level:** 10
     
 
 ## Auftreten & Rolle in der Gruppe
@@ -45,18 +45,35 @@ Bekannt war zudem, dass Shamrock aus [[Tiefwasser]] stammte und dort an einer ma
 - Begleitete die Gruppe in den [[Bernsteintempel]] und wurde dort dauerhaft verändert
     
 - Fiel im Kampf gegen [[Rahadin]], Werwölfe und [[Vanya]]
-    
+
+- Wurde durch den [[reiner Kern|Kern]] des getöteten [[Planetar|Planetars]] auf dem Plateau vor dem [[Bernsteintempel]] wiedergebracht — [[Børk]] goss dabei das Heilwasser aus dem See von [[Krezk]] über ihn und vertrieb eine dunkle Kraft, die sich aus dem Körper zu lösen versuchte. Durch die Engelskraft erhielt Shamrock ein Level-Up.
+
+- [[Mordekainen]] sprach ihn nach der Wiedergeburt direkt an — er bemerkte Shamrocks veränderten Arm und sagte: *„Oh, das ändert die Pläne."* Er riet ihm, sich nicht verführen zu lassen, und stellte ein Wiedersehen in der [[Akademie von Tiefwasser]] in Aussicht.
+
+- Öffnete ein Portal zu [[Viktor Vallakovich|Viktors]] Turm in [[Vallaki]] und führte die Gruppe zurück.
+
+- Hielt vor der Finalschlacht eine ergreifende Rede, die der Gruppe Inspiration gab.
+
+- Nahm im Kampf auf dem Turm [[Strahd]]s Schwert in die Brust, wurde mehrfach zu Boden geschickt und von [[Tapse Stolpernich|Tapse]] zurückgeholt.
+
+- Neutralisierte mehrere von Strahds mächtigsten Zaubern durch Counterspell.
+
+- Nahm [[Strahd]]s Schwert und Robe nach dessen Tod an sich.
+
 
 ## Aktueller Status
 
-- **Lebensstatus:** #tot
-    
+- **Lebensstatus:** lebend
+
 - **Bekannte Artefakte / besondere Ausrüstung:**
     
-    - Stoppuhr mit starker temporaler Magie (ehemals)
+    - Stoppuhr mit starker temporaler Magie
+    - Strahds Schwert (erbeutet)
+    - [[Robe des Abtes]] (von [[Tapse Stolpernich|Tapse]] übergeben)
+    - Strahds Robe (erbeutet)
         
 - **Bekannte Verletzungen / Flüche:**
     
-    - —
+    - Veränderter linker Arm — Natur unklar, auch [[Mordekainen]] reagierte darauf
         
-- **Letzter bekannter Aufenthaltsort:** Nähe des [[Bernsteintempel]] / Hochgebirge von [[Barovia]]
+- **Letzter bekannter Aufenthaltsort:** Unterwegs nach Baldurs Gate

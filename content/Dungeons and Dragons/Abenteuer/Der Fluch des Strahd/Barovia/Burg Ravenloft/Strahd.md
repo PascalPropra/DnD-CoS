@@ -3,6 +3,7 @@ tags:
   - BBEG
   - Vampir
   - NPC
+  - tot
 ---
 
 > *„Hat es euch keiner gesagt? Hier gibt es keine Götter. Es gibt nur mich."*
@@ -55,6 +56,11 @@ Als Volodomir den Folianten aufschlug, erschien Strahd und sagte: *„Ah, da sei
 
 **[[Session 10]] – [[Rahadin]] vollstreckt**
 Strahd selbst erschien nicht. Aber [[Rahadin]] kam – mit [[Vanya]] an der Leine. Rahadins Worte: Er sei der Vollstrecker Strahds, und die Frist sei abgelaufen. Irina wurde entführt.
+
+**[[Session 12]] – Das Finale**
+Auf dem Turm von [[Schloss Ravenloft]] bot Strahd der Gruppe ein letztes Mal an, [[Irina Koljana]] zu übergeben. [[Volodomir Dracoli|Volodomir]] antwortete mit einem Bolzen. Es folgte ein langer, brutaler Kampf — auf dem Turm, durch die Katakomben, bis in die Grabkammer. Strahd zeigte seine volle Macht: Feuerball, Meteoritenhagel, Zeitmagie. Als er sich in Fledermäuse verwandelte und in seinen Sarg floh, sprang [[Tapse Stolpernich|Tapse]] auf ihn und versenkte das Sonnenschwert in seiner Brust. Strahds letztes Wort: *„Endlich."* Dann Asche.
+
+Er hinterließ nur sein Schwert und seine Robe — beides nahm [[Shamrock]] an sich.
 
 ---
 

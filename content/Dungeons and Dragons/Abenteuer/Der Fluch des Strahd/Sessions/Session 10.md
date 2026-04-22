@@ -1,4 +1,4 @@
-[[Session 9]] - #session - Session 11
+[[Session 9]] - #session - [[Session 11]]
 ### [[Tag 11]]
 ---
 Der Kampf wird eröffnet.
@@ -99,30 +99,30 @@ Nach einigen Stunden der Suche fragt [[Mordenkainen]], ob er noch flüstern muss
 [[Erika]] verwandelt sich zurück in ihre eigene Gestalt und der Topf ploppt ihr auf den Kopf.
 Irgendwann finden wir Spuren, die nach [[Volodomir Dracoli]] aussehen. Wir hören aber auch [[Schreckenswölfe]] und beschließen, ihnen zu folgen.
 
-Wir geraten in einen Hinterhalt der Wölfe, doch können sie schnell ausschalten. Kurz darauf finden wir [[Volodomir Dracoli]], der stark angeschlagen mit [[Irina Koljana]] auf einem Pferd reitet. Als er uns bemerkt, kann er sich nicht mehr halten und stürzt aus dem Sattel. [[Tapse Stolpernich - Details]] heilt sie und die Gruppe versucht, zum nahegelegenen [[Weingut Weinmagier]] zu kommen. Dort stellen wir aber fest, dass dieses wieder von den [[Schattendruiden]] angegriffen wird. Auch ein riesiges totes Baumwesen ist dabei.
+Wir geraten in einen Hinterhalt der Wölfe, doch können sie schnell ausschalten. Kurz darauf finden wir [[Volodomir Dracoli]], der stark angeschlagen mit [[Irina Koljana]] auf einem Pferd reitet. Als er uns bemerkt, kann er sich nicht mehr halten und stürzt aus dem Sattel. [[Tapse Stolpernich - Details]] heilt sie und die Gruppe versucht, zum nahegelegenen [[Weingut Weinmagier]] zu kommen. Dort stellen wir aber fest, dass dieses wieder von den [[Schattendruiden]] angegriffen wird. Auch ein riesiges totes Baumwesen (Gluteas-Baum) ist dabei.
 Wir entschließen uns nach [[Krezk]] zu reisen. Mit [[Pass without Trace]] umgehen wir die Verfolger und kommen zu der abgeschotteten Abtei.
 
 Unterwegs berichtet uns [[Volodomir Dracoli]] davon, was nach seinem Sturz über die Klippe geschehen ist: ![[Volodomirs Bericht]]
 
-Wir treten an das vergitterte Stadttor heran. Ein buckliger Mann, [[Seros Lukresh]], will uns nicht reinlassen. Er sagt, für 10.000 Goldmünzen würde er uns einlassen, sonst ist es das nicht wert, seine Anstellung beim [[Dimitri Krekov|Bürgermeister]] zu verlieren.
+Wir treten an das vergitterte Stadttor heran. Ein buckliger Mann, [[Seros Lukresh]], will uns nicht reinlassen. Er sagt, für 10.000 Goldmünzen würde er uns einlassen, sonst ist es das nicht wert, seine Anstellung beim [[Dimitri Krezkov|Bürgermeister]] zu verlieren.
 [[Børk]] fliegt über die Mauer, schnappt sich den Mann und setzt ihn draußen wieder ab. Dann werden die Rollen getauscht.
 3 Personen mit improvisierten Waffen laufen aus der Stadt auf [[Børk]] zu. „Schuft, raus aus [[Krezk]].“
 Nach kurzem Zucken von [[Børk]] lassen sie ihre Waffen fallen und laufen angsterfüllt fort.
-[[Seros Lukresh]], jetzt etwas gesprächiger. Er verrät uns, wie man das Tor öffnet und verrät uns dass der Bürgermeister [[Dimitri Krekov]] heißt. Dieser kommt auch direkt angelaufen. Von [[Kurina Valenka]] hat er keine Ahnung, aber er weiß uns auch nicht aufzuhalten. Wir beschließen zum Gasthaus zu gehen, damit sich [[Volodomir Dracoli]] und [[Irina Koljana]] ausruhen können.
+[[Seros Lukresh]], jetzt etwas gesprächiger. Er verrät uns, wie man das Tor öffnet und verrät uns dass der Bürgermeister [[Dimitri Krezkov]] heißt. Dieser kommt auch direkt angelaufen. Von [[Kurina Valenka]] hat er keine Ahnung, aber er weiß uns auch nicht aufzuhalten. Wir beschließen zum Gasthaus zu gehen, damit sich [[Volodomir Dracoli]] und [[Irina Koljana]] ausruhen können.
 
 An mehreren Häusern in der Stadt befinden sich Zeichnungen von [[Latander]], dem Gott des Lebens.
-Die Zeichnungen sind allerdings abgeändert und sehen dem [[Morgenfürst]] ähnlicher.
-Wir hören die Schreie einer Frau. [[Børk]] hebt [[Erika]] ans Fenster. Eine Mutter gebiert ein Kind. [[Tapse Stolpernich - Details]] spricht ein [[Healing Word]] auf die Mutter. Die Hebamme scheint unzufrieden, übergibt das stille Kind an die glückliche Mutter. Sie tritt vor die Tür und erklärt uns bereitwillig, dass das junge Mädchen ohne Seele zur Welt gekommen ist. Es gäbe nicht genug in [[Barovia]] und viele wären nur Hüllen für vergangene Leben.
+Die Zeichnungen sind allerdings abgeändert und sehen dem [[Latander|Morgenfürst]] ähnlicher.
+Wir hören die Schreie einer Frau. [[Børk]] hebt [[Erika]] ans Fenster. Eine Mutter gebiert ein Kind. [[Tapse Stolpernich - Details]] spricht ein [[Healing Word]] auf die Mutter. Die Hebamme [[Kretiana]] scheint unzufrieden, übergibt das stille Kind an die glückliche Mutter. Sie tritt vor die Tür und erklärt uns bereitwillig, dass das junge Mädchen ohne Seele zur Welt gekommen ist. Es gäbe nicht genug in [[Barovia]] und viele wären nur Hüllen für vergangene Leben.
 
 Im Gasthaus mieten wir ein Zimmer für [[Volodomir Dracoli|Volodomir]] und Irina.
 Der Gastwirt [[Andrej Lukresh]] ist der Vater von [[Seros Lukresh|Seros]].
 - Er kennt [[Kurina Valenka]] auch nicht.
-- Er erzählt uns, dass vor etwa 100 Jahren ein Mann ankam, der sich [[Abt]] nannte. Seitdem vollbringt er Wunder in [[Krezk]]. Immer gut gekleidet und sehr blass. Seitdem ist er scheinbar nicht gealtert.
-- Nachts sind eigenartige Geräusche von der [[Abtei von Krezk]] zu hören.
+- Er erzählt uns, dass vor etwa 100 Jahren ein Mann ankam, der sich [[Melkor|Abt]] nannte. Seitdem vollbringt er Wunder in [[Krezk]]. Immer gut gekleidet und sehr blass. Seitdem ist er scheinbar nicht gealtert.
+- Nachts sind eigenartige Geräusche von der [[Abtei von St. Markovia 1]] zu hören.
 - Das Wasser im See soll „heilig“ sein.
 
 ---
 [[Børk]] ist zum See gegangen. Er bemerkt, dass das Wasser Magie ausstrahlt. Er schneidet sich in die Hand und hält sie ins Wasser. Die Wunde verschließt sich und das Blut verschwindet aus dem Wasser.
-Er bemerkt einen Pavillon in der Nähe. Er ist stark heruntergekommen und ein Abbild des [[Morgenfürst]]en ist zu sehen.
+Er bemerkt einen Pavillon in der Nähe. Er ist stark heruntergekommen und ein Abbild des [[Latander|Morgenfürst]]en ist zu sehen.
 [[Børk]] hält eine Flügelspitze ins Wasser und es ätzt diese an.
-Er bemerkt den [[Abt]], der den Weg von der [[Abtei von Krezk|Abtei]] herunterschreitet.
+Er bemerkt den [[Melkor|Abt]], der den Weg von der [[Abtei von St. Markovia 1|Abtei]] herunterschreitet.

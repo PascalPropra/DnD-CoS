@@ -2,7 +2,7 @@
 tags:
   - Ort
 ---
-ist dem [[Morgenfürst|Morgenfürsten]] geweiht
+ist dem [[Latander|Morgenfürsten]] geweiht
 Priester: [[Doranuwitch]]
 
 Hat ein Kellergewölbe

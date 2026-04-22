@@ -12,7 +12,7 @@ aliases:
     
 - **Klasse / sichtbare Rolle:** Paladin / Hexenmeister – Frontkämpfer und Zauberwirker
     
-- **Aktuelles Level:** 9
+- **Aktuelles Level:** 10
     
 
 ## Auftreten & Rolle in der Gruppe
@@ -42,8 +42,12 @@ aliases:
 	
 - Wurde im Kampf gegen [[Ludmilla Vilisevic]] unter [[Schloss Ravenloft]] direkt von ihr angegriffen und in den Hals gebissen
 	
-- Überlebte den Kampf gegen [[Rahadin]], Werwölfe und Vanya nur knapp
-    
+- Überlebte den Kampf gegen [[Rahadin]], Werwölfe und [[Vanya]] nur knapp
+
+- Kämpfte im Finale gegen [[Strahd]] mit wiederholten Divine Smites und schaffte es so dem Vampir erheblichen Schaden zuzufügen.
+
+- War mehrfach dem Tod nahe — [[Volodomir Dracoli|Volodomir]] rettete ihn einmal durch Blutfluch, indem er die Hälfte des Schadens auf sich umleitete.
+
 
 ## Aktueller Status
 
@@ -57,4 +61,4 @@ aliases:
 	    
     - keine bekannten dauerhaften Flüche
         
-- **Letzter bekannter Aufenthaltsort:** [[Krezk]] – [[Barovia]]
+- **Letzter bekannter Aufenthaltsort:** Unterwegs nach Baldurs Gate

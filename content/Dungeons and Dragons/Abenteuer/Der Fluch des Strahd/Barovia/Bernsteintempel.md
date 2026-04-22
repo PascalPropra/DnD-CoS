@@ -119,3 +119,9 @@ Beim Rückzug stürzte die Brücke hinter der Gruppe ein und schnitt den Weg dau
 ### Bekannte Verluste
 
 - **[[Kasimir Velikov|Kasimir]]** fiel im anschließenden Kampf außerhalb des Tempels
+
+---
+
+### Nach dem Finale
+
+[[Mordekainen]] verkündete nach [[Shamrock]]s Wiedergeburt, dass er den Bernsteintempel verteidigen müsse — [[Vecna]] könnte das Machtvakuum nach Strahds Tod nutzen, um die im Tempel gebundenen Kräfte zu beanspruchen. Er brach allein dorthin auf und ist seither nicht wieder aufgetaucht.

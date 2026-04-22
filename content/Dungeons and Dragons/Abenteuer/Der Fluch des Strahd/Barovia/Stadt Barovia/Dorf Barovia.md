@@ -11,6 +11,6 @@ Orte:
 [[Gasthaus - Blut auf der Rebe]]
 Haus von [[Marie]]
 [[Kirche der Stadt Barovia|Kirche]]
-
+[[Haus des Bürgermeisters]]
 
 

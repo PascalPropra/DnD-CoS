@@ -2,9 +2,7 @@
 tags:
   - Ort
 ---
-ehemals: Blut aus der Rebe - das "s" wurde mit einem "f" übermahlt
+Ehemals: Blut aus der Rebe - Das "s" wurde mit einem "f" übermalt.
 Wirt: [[Arik]]
 
-dort befanden sich 3 [[Vistani]] Frauen
-
-
+Dort befanden sich 3 [[Vistani]] Frauen.
